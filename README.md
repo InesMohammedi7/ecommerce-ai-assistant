@@ -14,14 +14,14 @@ An e-commerce platform designed for local shops, featuring an AI assistant that 
 
 ## Screenshots
 
-### Product Listing
+### Shop
 ![Product Listing](products.png)
 
 ### AI Assistant Placing an Order
 ![AI Chat](ai-chat.png)
 
 ### Shopping Cart
-![Cart](cart.png)
+![Cart]([cart.png](https://github.com/InesMohammedi7/ecommerce-ai-assistant/blob/e1bb87208de140c846351ca97ef2222b5426b17f/cart.png))
 
 ## Note
 The full source code is kept private to protect proprietary logic. 
