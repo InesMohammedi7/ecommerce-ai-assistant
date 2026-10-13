@@ -15,13 +15,13 @@ An e-commerce platform designed for local shops, featuring an AI assistant that 
 ## Screenshots
 
 ### Shop
-![shop]([products.png](https://github.com/InesMohammedi7/ecommerce-ai-assistant/blob/5a68f6cbb204b2e62f298c56f54e51d4c7cb8e22/shop.png))
+![shop]((https://github.com/InesMohammedi7/ecommerce-ai-assistant/blob/5a68f6cbb204b2e62f298c56f54e51d4c7cb8e22/shop.png))
 
 ### AI Assistant Placing an Order
-![AI Chat]([ai-chat.png](https://github.com/InesMohammedi7/ecommerce-ai-assistant/blob/bac98a33e49665e07d6c067eb2ac8f00a036e9b2/chatbot%20-%20order.jpg))
+![AI Chat]((https://github.com/InesMohammedi7/ecommerce-ai-assistant/blob/bac98a33e49665e07d6c067eb2ac8f00a036e9b2/chatbot%20-%20order.jpg))
 
 ### Shopping Cart
-![Cart]([cart.png](https://github.com/InesMohammedi7/ecommerce-ai-assistant/blob/e1bb87208de140c846351ca97ef2222b5426b17f/cart.png))
+![Cart]((https://github.com/InesMohammedi7/ecommerce-ai-assistant/blob/e1bb87208de140c846351ca97ef2222b5426b17f/cart.png))
 
 ## Note
 The full source code is kept private to protect proprietary logic. 
