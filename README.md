@@ -18,7 +18,7 @@ An e-commerce platform designed for local shops, featuring an AI assistant that 
 ![Product Listing](products.png)
 
 ### AI Assistant Placing an Order
-![AI Chat](ai-chat.png)
+![AI Chat]([ai-chat.png](https://github.com/InesMohammedi7/ecommerce-ai-assistant/blob/bac98a33e49665e07d6c067eb2ac8f00a036e9b2/chatbot%20-%20order.jpg))
 
 ### Shopping Cart
 ![Cart]([cart.png](https://github.com/InesMohammedi7/ecommerce-ai-assistant/blob/e1bb87208de140c846351ca97ef2222b5426b17f/cart.png))
